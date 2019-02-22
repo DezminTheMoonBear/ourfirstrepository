@@ -22,7 +22,7 @@
             "examplePhrases": [
               "Alexa open space facts",
               "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa tell play space trivia"
             ],
             "keywords": [
               "space",
@@ -37,7 +37,7 @@
             "examplePhrases": [
               "Alexa open space facts",
               "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa tell play space trivia"
             ],
             "keywords": [
               "space",
@@ -52,7 +52,7 @@
             "examplePhrases": [
               "Alexa open space facts",
               "Alexa ask space facts for a fact",
-              "Alexa tell me space trivia"
+              "Alexa tell play space trivia"
             ],
             "keywords": [
               "space",
@@ -67,7 +67,7 @@
             "examplePhrases": [
               "Alexa open space facts",
               "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa tell play space trivia"
             ],
             "keywords": [
               "space",
